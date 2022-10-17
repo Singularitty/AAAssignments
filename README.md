@@ -3,4 +3,6 @@
 
 ## Assignment 1
 To do:
-- Tudo :(
+- Relatório
+- Escolher hyperparameters
+- Validar e testar os modelos
